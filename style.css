@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Garamond, "Times New Roman", serif;
   margin: 0;
   background-color: #f5f7fa;
   color: #333;
@@ -33,11 +33,11 @@ main {
   background: white;
   padding: 30px;
   border-radius: 8px;
-  line-height: 1.6;
+  line-height: 1.7;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-/* 👇 updated brown titles */
+/* Brown titles */
 h2 {
   color: #5a3e2b;
 }
